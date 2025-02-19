@@ -30,9 +30,8 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 
     File type : Excel
     Table : 1
-    FIELDS : 11
-    Records : 149,116
-    Data Span : Jan 2023 – Jun 2023(6 months)
+    FIELDS : 16
+    Records : 149,456
     (Source : Maven Analytics)
 
 
